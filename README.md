@@ -1,4 +1,4 @@
-<a><img src="./anime.jpg" width="100%" height="auto"/></a>
+<a><img src="./images/anime2.png.jpg" width="100%" height="auto"/></a>
 
 <p align="center">
 </p>
@@ -42,10 +42,11 @@ Hi 👋, I am **Pebrianz** an enthusiastic and ambitious full stack developer. I
 <a href="https://github.com/pebrianz"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=pebrianz&theme=radical&title_color=ff3068"></a>
 <a href="https://github.com/pebrianz"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=pebrianz&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
-## 📘 My top projects
+## 📘 My projects
 
 <p align="left">
   <a href="https://github.com/pebrianz/flappy-bird-phaser-3"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pebrianz&repo=flappy-bird-phaser-3&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+  <a href="https://github.com/pebrianz/kalkulator"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pebrianz&repo=kalkulator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 </p>
 
 <p align="left">
