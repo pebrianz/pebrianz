@@ -46,9 +46,7 @@ Hi 👋, I am **Pebrianz** an enthusiastic and ambitious full stack developer. I
 
 ## 📘 My projects
 
-<p align="right">
-  <a href="https://github.com/pebrianz"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pebrianz&show_icons=true&layout=compact" /></a>
-</p>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pebrianz&show_icons=true&layout=compact&theme=midnight-purple" /></a>
 
 <p align="left">
   <a href="https://github.com/pebrianz/flappy-bird-phaser-3"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pebrianz&repo=flappy-bird-phaser-3&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
