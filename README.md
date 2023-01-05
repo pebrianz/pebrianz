@@ -50,8 +50,8 @@ Hi 👋, I am **Pebrianz** an enthusiastic and ambitious full stack developer. I
 
 <a href="https://github.com/pebrianz/flappy-bird-phaser-3"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pebrianz&repo=flappy-bird-phaser-3&theme=midnight-purple&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/pebrianz/kalkulator"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pebrianz&repo=kalkulator&theme=midnight-purple&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/pebrianz/flappy-bird-p5js"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pebrianz&repo=flappy-bird-phaser-3&theme=midnight-purple&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/pebrianz/bookshelfapps"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pebrianz&repo=kalkulator&theme=midnight-purple&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/pebrianz/flappy-bird-p5js"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pebrianz&repo=flappy-bird-p5js&theme=midnight-purple&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+<a href="https://github.com/pebrianz/bookshelfapps"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pebrianz&repo=bookshelfapps&theme=midnight-purple&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 
 <p align="left">
   <a href="https://github.com/pebrianz?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
