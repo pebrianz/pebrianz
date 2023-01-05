@@ -1,4 +1,4 @@
-<a><img src="./images/anime2.png.jpg" width="100%" height="auto"/></a>
+<a><img src="./images/anime2.png" width="100%" height="auto"/></a>
 
 <p align="center">
 </p>
