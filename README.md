@@ -1,3 +1,4 @@
+## **Hello, I'm Pebrianz**
 <a><img src="./images/anime2.png" width="100%" height="auto"/></a>
 
 <p align="center">
@@ -44,7 +45,7 @@ Hi 👋, I am **Pebrianz** an enthusiastic and ambitious full stack developer. I
 <a href="https://github.com/pebrianz"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=pebrianz&theme=midnight-purple"></a>
 <a href="https://github.com/pebrianz"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=pebrianz&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D"></a>
 
-## 📘 My projects
+## 📘 My repositories
 
 <img align="right" width="41%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pebrianz&show_icons=true&layout=compact&theme=midnight-purple" /></a>
 
