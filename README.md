@@ -29,14 +29,6 @@ Hi 👋, I am **Pebrianz** an enthusiastic and ambitious full stack developer. I
 </details>
   
 </p>
-  
-<!--
-<details>
-  <summary>📕 Blog Posts</summary>
-  <br />
-</details>
-</div>
--->
 
 ## 🔥 Github Stats
 
@@ -53,6 +45,14 @@ Hi 👋, I am **Pebrianz** an enthusiastic and ambitious full stack developer. I
 <a href="https://github.com/pebrianz/kalkulator"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pebrianz&repo=kalkulator&theme=midnight-purple&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/pebrianz/flappy-bird-p5js"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pebrianz&repo=flappy-bird-p5js&theme=midnight-purple&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
 <a href="https://github.com/pebrianz/bookshelfapps"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pebrianz&repo=bookshelfapps&theme=midnight-purple&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+
+## Statistics
+
+<div>
+  <a href="https://github.com/pebrianz?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=pebrianz&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
+  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pebrianz&layout=compact&theme=react&hide=php&langs_count=6" />
+  <a href="https://wakatime.com/@pebrianz"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=pebrianz&layout=compact&theme=react&langs_count=6" /></a>
+</div>
 
 <p align="left">
   <a href="https://github.com/pebrianz?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
