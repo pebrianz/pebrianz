@@ -12,7 +12,7 @@ Hi 👋, I am **Pebrianz** an enthusiastic and ambitious full stack developer. I
 
 <div>
 <details>
-  <summary>🧑 More about me</summary>
+  <summary> More about me</summary>
 
 - 🔭 I’m currently on a journey to build **great** things
 
@@ -30,7 +30,7 @@ Hi 👋, I am **Pebrianz** an enthusiastic and ambitious full stack developer. I
   
 </p>
 
-## Statistic
+## Statistics
 
 <img align="right" width="41%" src="./images/anime3.jpg"/>
 
