@@ -30,28 +30,16 @@ Hi 👋, I am **Pebrianz** an enthusiastic and ambitious full stack developer. I
   
 </p>
 
-## 🔥 Github Stats
+## Statistic
 
 <img align="right" width="41%" src="./images/anime3.jpg"/>
 
 <a href="https://github.com/pebrianz"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=pebrianz&theme=midnight-purple"></a>
 <a href="https://github.com/pebrianz"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=pebrianz&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D"></a>
-
-## 📘 My repositories
-
-<a href="https://github.com/pebrianz"><img align="right" width="41%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pebrianz&show_icons=true&layout=compact&theme=midnight-purple" /></a>
-
-<a href="https://github.com/pebrianz/flappy-bird-phaser-3"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pebrianz&repo=flappy-bird-phaser-3&theme=midnight-purple&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/pebrianz/kalkulator"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pebrianz&repo=kalkulator&theme=midnight-purple&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/pebrianz/flappy-bird-p5js"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pebrianz&repo=flappy-bird-p5js&theme=midnight-purple&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-<a href="https://github.com/pebrianz/bookshelfapps"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=pebrianz&repo=bookshelfapps&theme=midnight-purple&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
-
-## Statistics
-
-<div>
-  <a href="https://github.com/pebrianz?tab=repositories&q=&type=&language=&sort=stargazers"><img height="154" src="https://github-readme-stats.vercel.app/api?username=pebrianz&show_icons=true&theme=react&count_private=true&hide=contribs" /></a>
-  <img height="154" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pebrianz&layout=compact&theme=react&hide=php&langs_count=6" />
-  <a href="https://wakatime.com/@pebrianz"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=pebrianz&layout=compact&theme=react&langs_count=6" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pebrianz&layout=compact&theme=midnight-purple&hide=php&langs_count=6" />
+ <!--
+ <a href="https://wakatime.com/@pebrianz"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=pebrianz&layout=compact&theme=midnight-purple&langs_count=6" /></a>
+ -->
 </div>
 
 <p align="left">
