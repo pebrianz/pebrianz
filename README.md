@@ -31,7 +31,7 @@ Hi 👋, I am **Pebrianz** an enthusiastic and ambitious full stack developer. I
 
 <a href="https://github.com/pebrianz"><img src="https://github-readme-stats.vercel.app/api?username=pebrianz&theme=midnight-purple"></a>
 <a href="https://github.com/pebrianz"><img src="http://github-readme-streak-stats.herokuapp.com/?user=pebrianz&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D"></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pebrianz&layout=compact&theme=midnight-purple&hide=php&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pebrianz&layout=compact&theme=midnight-purple&langs_count=6" />
  <!--
  <a href="https://wakatime.com/@pebrianz"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=pebrianz&layout=compact&theme=midnight-purple&langs_count=6" /></a>
  -->
