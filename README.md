@@ -4,7 +4,7 @@
 -->
 <p>
   
-Hi 👋, I am **Pebrianz** an enthusiastic and ambitious full stack developer. I specialise in Web Development✨
+Hi 👋, I am **Pebrianz** ✨
 
 <div>
 <details>
@@ -16,7 +16,7 @@ Hi 👋, I am **Pebrianz** an enthusiastic and ambitious full stack developer. I
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
-- 👨‍💻 All of my projects are available at [pebrianz.my.id](https://pebrianz.my.id)
+- 👨‍💻 All of my projects are available at [pebrianz](https://github.com/pebrianz)
 
 - 💬 Ask me about **open source and web development**
 
