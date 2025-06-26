@@ -22,6 +22,8 @@ Hi 👋, I am **Pebrianz** ✨
 
 - 📫 Reach me out at **pebrianz117@gmail.com**
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pebrianz&layout=compact&theme=midnight-purple"/>
+
 </details>
   
 </p>
