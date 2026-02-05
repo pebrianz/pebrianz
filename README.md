@@ -1,5 +1,5 @@
 ## **Hello, I'm Pebrianz**
-<img src="SAO_1.avif">
+<!-- <img src="SAO_1.avif"> -->
 
 <p>
   
